@@ -1,0 +1,199 @@
+body{
+    background-color: #E9ECEF;
+}
+
+.bs {
+    background-color: #333;
+    overflow: hidden;
+    margin: -0.1%;
+}
+
+.bs a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+
+.bs a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.bs a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+
+
+.acmtn{
+    position: absolute;
+    left: 600px;
+    justify-content: center;
+    top: 180px;
+    align-items: center;
+    color: saddlebrown;
+    text-align: center;
+}
+
+
+
+.bmtr{
+    position: absolute;
+    justify-content: center;
+    top: 290px;
+    align-items: center;
+    font-size: 25px;
+    color: royalblue;
+    left: 585px;
+    text-align: center;
+}
+
+
+
+.mtrid{
+    position: absolute;
+    justify-content: center;
+    top: 330px;
+    left: 585px;
+    align-items: center;
+}
+
+.leadc{
+    position: absolute;
+    justify-content: center;
+    top: 420px;
+    left: 630px;
+    align-items: center;
+    text-align: center;
+}
+
+.my-4{
+    position: relative;
+    justify-content: center;
+    top: 210px;
+    align-items: center;
+    color: red;
+    text-align: center;
+}
+
+
+.pa{
+    position: relative;
+    justify-content: center;
+    left: -50px;
+    top: 150px;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.card{
+    top: 70px;
+}
+
+
+.row{
+    top: 500px;
+}
+
+
+.mazg{
+    position: absolute;
+    justify-content: center;
+    right: 90px;
+    top: 150px;
+    align-items: center;
+    text-align: center;
+} 
+
+.ur{
+    position: absolute;
+    justify-content: center;
+    left: 550px;
+    top: 60px;
+    align-items: center;
+    text-align: center;
+}
+
+
+.hkknda{
+    color: rgb(179, 20, 20);
+}
+ 
+ .msy{
+    color: rgb(179, 20, 20);
+}
+ 
+ .vzy{
+    color: rgb(179, 20, 20);
+}
+
+.hkknda{
+    position: absolute;
+    justify-content: center;
+    left: 550px;
+    top: 110px;
+    align-items: center;
+    text-align: center;
+}
+
+.yzhk{
+    position: absolute;
+    top: 150px;
+    left: 10px;
+}
+
+.msy{
+    position: absolute;
+    justify-content: center;
+    left: 550px;
+    top: 250px;
+    align-items: center;
+    text-align: center;
+}
+
+.yzms{
+    position: absolute;
+    top: 310px;
+    left: 10px;
+}
+
+
+
+.vzy{
+    position: absolute;
+    justify-content: center;
+    left: 550px;
+    top: 350px;
+    align-items: center;
+    text-align: center;
+} 
+
+
+.yzvyz{
+    position: absolute;
+    top: 410px;
+    left: 10px;
+}
+
+.r{
+    position: absolute;
+    top: 415px;
+}
+
+.rr{
+    position: absolute;
+    top: 415px;
+    left: 505px;
+}
+
+.rrr{
+    position: absolute;
+    top: 415px;
+    left: 945px;
+}
